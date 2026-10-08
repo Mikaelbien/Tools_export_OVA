@@ -1,0 +1,7 @@
+# Binaires OVF Tool (copie locale)
+ovftool/*
+!ovftool/README.md
+build/
+release/
+*.spec
+__pycache__/
